@@ -1,5 +1,13 @@
 # Infrações de heurísticas de usabilidades e interface
 #####
+## Heurística - 4 (Consistência e padrões)
+
+![imagem-6](media/siga-fatec.jpg)
+#### Ao clicar na logo não retorna para home
+
+![imagem-7](media/image.png)
+#### Mostra as secções do site em cor escura, quando o padrão é manter escura a aba que está sendo visualizada
+#####
 ## Heurística - 5 (Prevenção de erros)
 
 ![imagem-4](media/Captura%20de%20tela%202024-03-01%20103423.png)
