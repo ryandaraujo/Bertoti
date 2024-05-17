@@ -7,6 +7,9 @@
 
 ![imagem-7](media/image.png)
 #### Mostra as secções do site em cor escura, quando o padrão é manter escura a aba que está sendo visualizada
+
+![imagem-8](media/login-siga.png)
+#### O tecla enter não faz login, é necessário clicar no botão da tela
 #####
 ## Heurística - 5 (Prevenção de erros)
 
