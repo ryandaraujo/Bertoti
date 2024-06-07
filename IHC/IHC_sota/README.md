@@ -5,4 +5,9 @@
 
 > Componentes do Grupo: [Gabriel Reis](https://github.com/b4hia) , [Wellington Luiz](https://github.com/WellingtonLFaria), [Ryan Araujo](https://github.com/ryandaraujo).
 
+Nome do Bot: 
+```
+PharmaciaBot
+```
+
 [O código para o colab](https://colab.research.google.com/drive/1FnKPAbOfiYGheZ1KOF9T4-Mf8DbMgr64?usp=sharing)
